@@ -1,9 +1,9 @@
 package crm;
 
-public class GitTest {
+public class Git2ndB {
 
 	public static void main(String[] args) {
-		System.out.println("Hello done ");
+		// TODO Auto-generated method stub
 
 	}
 
